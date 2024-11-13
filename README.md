@@ -52,7 +52,7 @@
         /* Ready screen */
         .ready-screen {
             display: none;
-            background-color: #ffffff;
+            background-color: #f20ae7;
             padding: 20px;
             border-radius: 10px;
             position: relative;
