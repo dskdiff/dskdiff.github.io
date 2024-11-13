@@ -12,7 +12,7 @@
             height: 100vh;
             margin: 0;
             font-family: 'Roboto', Arial, sans-serif;
-            color: #555;
+            color: #000000;
             background-color: #f08de4;
             flex-direction: column;
             text-align: center;
@@ -75,14 +75,14 @@
 
     <!-- Initial screen with prompt -->
     <div class="initial-screen">
-        <p>Huuy mijidee yum asuuy</p>
-        <button id="yesButton">Zaa</button>
-        <button id="noButton">Ugui</button>
+        <p>Huuy mijidee yum asuuy😝😝</p>
+        <button id="yesButton">Zaaaa</button>
+        <button id="noButton">Huts.</button>
     </div>
 
     <!-- Ready screen -->
     <div class="ready-screen" id="readyScreen">
-        <h1>~Nadtai uyrheej >-<.</h1>
+        <h1>🤭 ~Nadtai uyrheej >-<.</h1>
         <div class="decorations">🌸❤️🌸❤️</div>
     </div>
 
