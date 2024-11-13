@@ -13,7 +13,7 @@
             margin: 0;
             font-family: 'Roboto', Arial, sans-serif;
             color: #555;
-            background-color: #cf0ecf;
+            background-color: #f08de4;
             flex-direction: column;
             text-align: center;
         }
